@@ -1,0 +1,106 @@
+{
+    "date": "2023-01-17 09:31:35",
+    "responses": {
+        "DeviceID": "string",
+        "description": "string",
+        "price": 0.0,
+        "tax": 0.0
+    }
+}{
+    "date": "2023-01-17 09:31:37",
+    "responses": {
+        "DeviceID": "string",
+        "description": "string",
+        "price": 0.0,
+        "tax": 0.0
+    }
+}{
+    "date": "2023-01-17 09:33:33",
+    "responses": {
+        "DeviceID": "ABC",
+        "description": "test",
+        "price": 100.0,
+        "tax": 99.0
+    }
+}{
+    "date": "2023-01-17 09:34:10",
+    "responses": {
+        "DeviceID": "ABC",
+        "description": "test",
+        "price": 100.0,
+        "tax": 99.0
+    }
+}{
+    "date": "2023-01-17 09:34:15",
+    "responses": {
+        "DeviceID": "ABC",
+        "description": "test",
+        "price": 100.0,
+        "tax": 99.0
+    }
+}{
+    "date": "2023-01-17 09:34:46",
+    "responses": {
+        "DeviceID": "ABC",
+        "description": "test",
+        "price": 100.0,
+        "tax": 99.0
+    }
+}{
+    "date": "2023-01-17 09:35:00",
+    "responses": {
+        "DeviceID": "ABC",
+        "description": "test",
+        "price": 100.0,
+        "tax": 99.0
+    }
+}{
+    "date": "2023-01-17 09:35:00",
+    "responses": {
+        "DeviceID": "ABC",
+        "description": "test",
+        "price": 100.0,
+        "tax": 99.0
+    }
+}{
+    "date": "2023-01-17 09:35:01",
+    "responses": {
+        "DeviceID": "ABC",
+        "description": "test",
+        "price": 100.0,
+        "tax": 99.0
+    }
+}{
+    "date": "2023-01-17 09:35:02",
+    "responses": {
+        "DeviceID": "ABC",
+        "description": "test",
+        "price": 100.0,
+        "tax": 99.0
+    }
+}{
+    "date": "2023-01-17 09:35:03",
+    "responses": {
+        "DeviceID": "ABC",
+        "description": "test",
+        "price": 100.0,
+        "tax": 99.0
+    }
+}{
+    "date": "2023-01-17 09:39:25",
+    "responses": {
+        "DeviceID": "ABC",
+        "description": "test",
+        "price": 100.0,
+        "tax": 99.0
+    }
+}
+{
+    "date": "2023-01-17 09:42:40",
+    "responses": {
+        "DeviceID": "ABC",
+        "description": "test",
+        "price": 100.0,
+        "tax": 99.0
+    }
+}
