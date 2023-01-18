@@ -16,6 +16,6 @@ if __name__=='__main__':
     response = requests.post(url, headers=headers, data=json.dumps(data), timeout=10)
     print(response.status_code, response.reason)
     print(response.headers)
-    print(response.content)
+    #print(response.content)
     print(response.text)
 
