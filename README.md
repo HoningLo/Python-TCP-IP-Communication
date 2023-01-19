@@ -8,7 +8,6 @@
 2. Clone.
 
 ```bash
-# 複製 git 到本地
 git clone https://github.com/HoningLo/Python-TCP-IP-Communication.git
 cd Python-TCP-IP-Communication
 ```
