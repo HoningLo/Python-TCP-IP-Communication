@@ -73,11 +73,13 @@ if __name__ == '__main__':
 
 ### Requests Web API (Http API)
 
-Edit the file `Requests_WebAPI.py` and replace the text `____Enter_Your_DeviceID____` with your DeviceID.
+Edit the file `Requests_WebAPI.py` and replace the text `____Enter_Your_DeviceID____`, `____Enter_Your_URL____` with your DeviceID and your URL.
 
 ```python
 # main.py
 
+...
+url = "____Enter_Your_URL____"
 ...
 data = {"DeviceID": "____Enter_Your_DeviceID____"}
 ...
@@ -192,7 +194,7 @@ if __name__ == '__main__':
     modbus_client = Modbus_Client(HOST, PORT)
     modbus_client.read_holding_registers(0)
     modbus_client.write_single_register(1, 111)
-    modbus_client.write_single_register(2, [222, 333, 444])
+    modbus_client.write_multiple_registers(2, [222, 333, 444])
 ```
 
 Run the `ModbusTCP_Client.py` :
