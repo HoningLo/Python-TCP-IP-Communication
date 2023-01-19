@@ -22,9 +22,9 @@ def build_server(HOST, PORT):
         print("Server is online")
         state = [0]
         while True:
-            server.data_bank.set_holding_registers(0, [1314520])
-            if state != server.data_bank.get_input_registers(1):
-                state = server.data_bank.get_input_registers(1)
+            server.data_bank.set_holding_registers(0, [520])
+            if state != server.data_bank.get_holding_registers(1):
+                state = server.data_bank.get_holding_registers(1)
                 print("Value of Register 1 has changed to " + str(state))
             sleep(0.5)
     
